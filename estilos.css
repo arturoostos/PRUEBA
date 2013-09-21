@@ -1,0 +1,15 @@
+/*-- coloca color en texto */
+
+h1 {  
+  color: #777;
+  font-size: 100px;
+
+  } 
+
+  p {
+    text-align: center;
+    color: #999;
+    font-size: 100px;
+  }
+
+
